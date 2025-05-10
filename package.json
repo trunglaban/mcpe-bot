@@ -1,0 +1,12 @@
+{
+  "name": "mcpe-bot",
+  "version": "1.0.0",
+  "description": "Bot PE auto join server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.5.0"
+  }
+}
